@@ -1,5 +1,4 @@
 clear all;
-clc;
 
 n = 4;
 a = 1; 
